@@ -53,9 +53,12 @@ Collect some better warehouses
 
 该[仓库地址](http://lcm-proj.github.io/)。
 
-Quick links
+#### Quick links
 
 [Downloads](https://github.com/lcm-proj/lcm/releases)
+
 [Build Instructions](http://lcm-proj.github.io/build_instructions.html)
+
 [Tutorial and examples](http://lcm-proj.github.io/tutorial_general.html)
+
 [GitHub site](https://github.com/lcm-proj/lcm)
