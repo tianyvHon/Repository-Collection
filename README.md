@@ -65,3 +65,9 @@
 [Tutorial and examples](http://lcm-proj.github.io/tutorial_general.html)
 
 [GitHub site](https://github.com/lcm-proj/lcm)
+
+## Practical hardware and software development tool series
+
+### (1) Adobe
+
+[baidu address](https://pan.baidu.com/s/1cv6mg9ycFSinHnPoOzCgrA?pwd=3jek#list/path=%2F)-3jek
