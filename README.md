@@ -15,7 +15,7 @@ Collect some better warehouses
 
 ### (1) MIT Cheetah Mini
 
-![](images/MIT-Cheetah_0.jpg)
+<img src="images/MIT-Cheetah_0.jpg" style="zoom:50%;" />
 
 由著名的 [MIT Biomimetic Robotics Lab](https://biomimetics.mit.edu/) 实验室设计开发。该实验室曾发表说：[Help Accelerate Robotics Research](https://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304)。
 
